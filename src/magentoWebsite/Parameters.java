@@ -9,7 +9,7 @@ public class Parameters {
 	String[] firstNames = { "Amir", "Layla", "Tariq", "Hana", "Zayd", "Nour", "Samir", "Yasmin", "Omar", "Rania" };
 	String[] lastNames = { "Al-Farsi", "Ibrahim", "Hassan", "Sami", "Al-Mansoor", "Abdullah", "Jamal", "Qadir", "Shah",
 			"Khalil" };
-	String emailID = firstNames[randomIndex]+lastNames[randomIndex]+"@"+"gmail.com";
+	String emailID = firstNames[randomIndex]+lastNames[randomIndex]+randEmailID+"@"+"gmail.com";
 	String CommonPassword = "ABC123@@";
 	
 	
